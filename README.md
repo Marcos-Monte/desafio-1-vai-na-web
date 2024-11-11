@@ -25,7 +25,8 @@ Utilize a tag semântica para criar o rodapé da página, incluindo:
 * Insira uma mensagem de direitos autorais, como “© 2024 Nome do Estúdio. Todos os direitos reservados”.
 
 ### Materiais de Apoio:
-* Disponibilizamos um arquivo no Figma com um protótipo da página que pode ser utilizado como guia para a organização do conteúdo.
+* Disponibilizamos um arquivo no Figma com um protótipo da página que pode ser utilizado como guia para a organização do conteúdo: [figma](https://www.figma.com/design/iYneECletzSjszJDpBGM6Z/WS---SEM%C3%82NTICA?node-id=0-1&node-type=canvas&t=f5TeReK8MxRJ3qSa-0)
+
 * As imagens necessárias para o desafio estarão disponíveis para que possam ser utilizadas no desenvolvimento da página.
 
 ### Forma de Entrega:
@@ -33,5 +34,10 @@ Utilize a tag semântica para criar o rodapé da página, incluindo:
 
 ## Layout
 
-* Link para o Figma da Aplicação: https://www.figma.com/design/iYneECletzSjszJDpBGM6Z/WS---SEM%C3%82NTICA?node-id=0-1&node-type=canvas&t=f5TeReK8MxRJ3qSa-0
+<figure>
+    <img src="./imagens/layout.png" alt="Layout de como deve ficar a aplicação">
+    <figcation>Layout da Página</figcatption>
+</figure>
+
+
 
